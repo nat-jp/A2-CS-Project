@@ -1,4 +1,4 @@
-import * as PIXI from 'pixi.js'
+import 'pixi.js'
 
 let type = "WebGL"
 if (!PIXI.utils.isWebGLSupported())
